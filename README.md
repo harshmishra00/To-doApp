@@ -1,5 +1,6 @@
 # Vanilla JavaScript Task Manager
 
+![Task Manager Screenshot](./screenshot.png)
 A feature-rich, modern Task Manager application built entirely with HTML, CSS, and Vanilla JavaScript. This project showcases fundamental and advanced web development concepts, demonstrating a strong understanding of front-end technologies without the reliance on external libraries or frameworks.
 
 ## 🚀 Features
